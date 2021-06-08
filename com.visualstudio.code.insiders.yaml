@@ -82,6 +82,11 @@ modules:
       - type: extra-data
         filename: code-insiders.deb
         only-arches: [x86_64]
+  <<<<<<< update-f2c901e
+        url: http://packages.microsoft.com/repos/code/pool/main/c/code-insiders/code-insiders_1.56.0-1619458538_amd64.deb
+        sha256: 0d032264c9e57ba923134e0e6075874bbda334905a5bfcb3075a01d0a5771090
+        size: 74051560
+  =======
   <<<<<<< update-65d9071
         url: http://packages.microsoft.com/repos/code/pool/main/c/code-insiders/code-insiders_1.56.0-1619504753_amd64.deb
         sha256: c516d80088f4f8919882860628795a4b4c6161cc02019975fe38281ca29f11f3
@@ -110,6 +115,7 @@ modules:
         url: http://packages.microsoft.com/repos/code/pool/main/c/code-insiders/code-insiders_1.57.0-1623144646_amd64.deb
         sha256: e2e93dab08a4d58c86dc4ffdcca868bb1d00e4314424d5fef054caec3abff171
         size: 76350976
+  >>>>>>> beta
   >>>>>>> beta
   >>>>>>> beta
   >>>>>>> beta
