@@ -23,6 +23,9 @@
     <content_attribute id="social-info">moderate</content_attribute>
   </content_rating>
   <releases>
+  <<<<<<< update-f3ad5a5
+    <release version="1.56.0-1619585488" date="2021-04-28"/>
+  =======
   <<<<<<< update-92b36cf
     <release version="1.57.0-1620623636" date="2021-05-10"/>
   =======
@@ -65,6 +68,7 @@
     <release version="1.56.0-1619759536" date="2021-04-30"/>
     <release version="1.56.0-1619707496" date="2021-04-29"/>
     <release version="1.56.0-1619673504" date="2021-04-29"/>
+  >>>>>>> beta
     <release version="1.56.0-1619545507" date="2021-04-27"/>
     <release version="1.56.0-1619503654" date="2021-04-27"/>
     <release version="1.56.0-1619458244" date="2021-04-26"/>
